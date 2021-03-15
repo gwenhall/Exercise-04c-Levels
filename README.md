@@ -12,11 +12,6 @@ Then, close the editor and begin to lay our your level. This is a code-free way 
 
 Repeat for the other two levels. Use the brown and red tiles for level 1, green and yellow for level 2, and blue and white tiles for level 3 (to make them visually distinct).
 
-Quit Godot. In GitHub desktop, add a summary message, commit your changes and push them back to GitHub. If you return to and refresh your GitHub repository page, you should now see your updated files with the time when they were changed.
-
-Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/[username]/Exercise-04c-Levels) on Canvas.
-
-The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
 # Exercise-04c-Levels
 Exercise for MSCH-C220, 10 March 2021
@@ -37,5 +32,4 @@ None
 None
 
 ## Created by 
-Jason Francis
-```
+Gwen hall
