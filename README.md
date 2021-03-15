@@ -1,16 +1,3 @@
-# Exercise-04c-Levels
-Exercise for MSCH-C220, 10 March 2021
-
-A demonstration video for this exercise is available at [https://youtu.be/psRW-I77QKw](https://youtu.be/psRW-I77QKw)
-
-This exercise is designed to continue our creation of a 2D Platformer, by laying out three levels using Godot's TileMap node.
-
-Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-04c-Levels. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
-
-Clone the repository to a Local Path on your computer.
-
-Open Godot. Import the project.godot file and open the "Levels" project.
-
 This project consists of three levels (res://Levels/Level1.tscn, Level2.tscn, Level3.tscn), each of which has three TileMap nodes: Background, Platform, and Foreground. Using the provided asset: res://Assets/Tiles.png, create level-specific tilemaps for each of these scenes.
 
 The goal is to allow the player to move from the blue Spawn portal on the left of the level to the orange Exit portal at the right of the level.
